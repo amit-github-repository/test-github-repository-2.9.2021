@@ -1,0 +1,6 @@
+This check -a option ti git.
+<<<<<<< HEAD
+This is again update.
+=======
+This is 1
+>>>>>>> d9100c7 (This again save all files.)
